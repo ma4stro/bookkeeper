@@ -25,6 +25,7 @@ package org.apache.bookkeeper.bookie;
  */
 public class MockUncleanShutdownDetection implements UncleanShutdownDetection {
 
+    // asdasda
     private boolean startRegistered;
     private boolean shutdownRegistered;
 
